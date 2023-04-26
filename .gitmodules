@@ -1,0 +1,3 @@
+[submodule "analisador-lexico"]
+	path = analisador-lexico
+	url = https://github.com/alineralncs/analisador-lexico.git
