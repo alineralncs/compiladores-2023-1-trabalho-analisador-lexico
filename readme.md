@@ -10,6 +10,7 @@ Nome dos alunos e números de matrícula:
 
 > Orientações: preencher os dados da dupla antes da data de entrega
 
+## Repositório com o trabalho em Django -> https://github.com/alineralncs/analisador-lexico
 ## Como entregar este trabalho
 
 Faça um fork deste repositório e faça os commits com o código que você utilizou para chegar nos resultados. Serão aceitos os commits até a data de 26/04/2023 às 13:59:59 (antes da aula).
