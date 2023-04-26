@@ -1,8 +1,8 @@
 # Trabalho: Analisador Léxico
 
 Nome dos alunos e números de matrícula:
-* Aluno: ___________________________
-* Aluno: ___________________________
+* Aluno: Aline Rose Alencar Santos
+* Aluno: Milena Carneiro Rios de Oliveira
 * Disciplina: Compiladores
 * Semestre: 2023/1
 * Data de entrega: 26/04/2023
